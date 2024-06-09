@@ -1,0 +1,8 @@
+export {default as FAG} from '../Pages/FAG'
+export {default as Home} from '../Pages/Home'
+export {default as Blog} from '../Pages/Blog'
+export {default as About} from '../Pages/About'
+export {default as Works} from '../Pages/Works'
+export {default as Sliders} from '../Pages/Sliders'
+export {default as Contacts} from '../Pages/Contacts'
+export {default as Navbar} from '../Comaponets/Navbar/Navbar'
